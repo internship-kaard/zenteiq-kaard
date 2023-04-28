@@ -11,3 +11,6 @@ Once the algorithm was trained, we used it to identify students who were at risk
 
 Overall, this project focused on using machine learning to improve student outcomes by identifying those who were at risk of dropping out or falling behind and providing them with the support and resources they needed to succeed.
 
+Dataset collected from Kaggle - https://www.kaggle.com/code/stefansanchez26/students-dropout-prediction-with-logistic-reg
+
+Original author of this dataset - https://zenodo.org/record/5777340#.ZEtLUXZBy3B
